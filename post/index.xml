@@ -20,5 +20,14 @@
       <description>大家好 我的博客开通了，希望我能写出好文章给大家看。</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://localhost:1313/post/%E7%AC%AC%E4%B8%89%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/%E7%AC%AC%E4%B8%89%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>可以自己写博客了开心 我以后会坚持写的，希望大家多多支持。谢谢 开心</description>
+    </item>
+    
   </channel>
 </rss>
